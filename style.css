@@ -1,0 +1,199 @@
+.header {
+   margin:0 auto;
+}
+.header__fon-image-image {
+   background: url(image/Mask\ Group.jpg) no-repeat 50% 100%;  
+   height: 464px; 
+   text-align: center;
+}
+.header-h2 {
+   text-align: center;
+   padding:60px auto 45px;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-style: normal;
+   font-weight: 900;
+   font-size: 35px;
+   line-height: 47px;
+   
+}
+.header__title {
+   text-align:center;
+   margin:0 auto;
+   color: #FFFFFF;
+   font-family: Roboto , sans-serif;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 72px;
+   line-height: 84px;
+   letter-spacing: 2px;
+   text-transform: uppercase;
+   padding-top:32px;
+}
+.nav {
+   margin:0 auto;
+}
+.header__nav {
+   text-align:center;
+}
+.header:last-child {
+   margin-top: 45px;
+}
+.header__icon__image {
+background-repeat: no-repeat;
+padding-top:45px;
+}
+
+.nav__a {
+   text-decoration: none;
+   color:black;
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 15px;
+   line-height: 18px;
+   padding:0 15px;
+   text-transform: uppercase;
+}
+.header-p {
+   display:inline-block;
+   text-align:center;
+   max-width:456px;
+   color:#FFFFFF;
+   margin:0 auto;
+   padding-top:135px;
+}
+.center {
+   text-align:center;
+}
+.center__image {
+   display: flex;
+   flex-direction:row;
+   justify-content: center;
+}
+.center__image__block {
+display:inline-block;
+max-width:370px;
+padding:25px;
+}
+.center__image__block:first-child {
+   margin-right:25px;
+}
+.top__h3 {
+   text-align: center;
+   margin: 44px auto 0;
+}
+.h3-1 {
+   text-align: left;
+}
+.p-1 {
+   text-align: left;
+}
+.h3-2 {
+   text-align: left;
+   color:#FF7931;
+}
+.p-2 {
+   text-align: left;
+}
+.h3-3 {
+   text-align: left;
+}
+.p-3 {
+   text-align: left;
+}
+.list__1-h3 {
+   text-align: center;
+}
+.list__2-h3 {
+   text-align: center;
+}
+.list__3-h3 {
+   text-align: center;
+}
+.list__1-p {
+   text-align: center;   
+}
+.list__2-p {
+   text-align: center;   
+}
+.list__3-p {
+   text-align: center;   
+}
+.center-reviews {
+   background-image: url(../personal_page/image/Ellipse-1.jpg);
+   margin: 0 auto;
+   background-color: #F7F7F7;
+   display:flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.reviews-block {
+   display:inline-block;
+   max-width:365px; 
+}
+.button-a {
+ text-decoration: none;
+ color:white;
+ padding:15px;  
+}
+.center__button {
+   background-color:#FF7931 ; 
+   padding:10px;
+   margin-top: 25px;
+}
+.footer {
+   background-color: #575757;
+   text-align: center;
+   margin-top:85px;
+}
+.footer__nav-a {
+   text-decoration: none;
+   color: white; 
+   text-decoration: none;
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 15px;
+   line-height: 18px;
+   padding:0 15px; 
+   padding-top:32px ;
+   text-transform: uppercase;
+}
+.footer-h2 {
+   color:white;
+   padding-top:25px;
+}
+.footer__icons {
+   display:flex;
+   justify-content: center;
+   margin:30px;
+
+}
+.icons__inst {
+   background-color: white;
+}
+.icon-footer { 
+   width: 20px;
+   height: 20px;
+   padding:10px;
+}
+.icons__fb {
+   background-color: white;
+
+}
+.icons__tviter {
+   background-color: white;
+
+}
+.border {
+   border: 1px solid #FFFFFF;  
+   margin: 46px auto -15px;
+   width:1170px;
+   opacity: 0.4;
+   height: 0px; 
+   border-collapse: collapse; 
+}
+.footer__nav {
+   margin-top:32px;
+}
